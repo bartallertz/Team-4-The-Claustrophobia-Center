@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/MyData/Scenes/01.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Easy Elevator/Demo Scene/Demo Scene.unity
+  isLoaded: 1
+  isActive: 1
